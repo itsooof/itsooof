@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kavya Paliwal</h1>
+<h1 align="center">Hi 👋, I'm Kavya Paliwal <img src="https://img.icons8.com/color/144/000000/avatar.png" height="35" width="35"/></h1>
 <h3 align="center">CSE Student, VIT Chennai</h3>
 <br><br>
 
