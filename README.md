@@ -23,7 +23,3 @@
     <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsooof&theme=radical" alt="pratikgarai" /></td>
    </tr>
 </table>
-
-<p align="center">
-  <img src="https://github.com/itsooof/itsooof/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
