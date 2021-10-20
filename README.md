@@ -6,7 +6,8 @@
 <p align="left">
 <a href="https://twitter.com/kavya_1234" target="blank"><img align="center" src="https://img.icons8.com/office/40/000000/twitter.png" alt="kavya_1234" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kavya-paliwal-24a8241b4/" target="blank"><img align="center" src="https://img.icons8.com/office/40/000000/linkedin.png" alt="https://www.linkedin.com/in/kavya-paliwal-24a8241b4/" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/itsoooof" target="blank"><img align="center" src="https://img.icons8.com/office/40/000000/instagram-new.png" alt="itsoooof" height="50" width="50" /></a>
+<a href="https://instagram.com/itsoooof" target="blank"><img align="center" src="https://img.icons8.com/office/40/000000/instagram-new.png" alt="itsoooof" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://open.spotify.com/user/lvvkfwukd2hb0wyxhor7xiatk?si=e6fb8c4a9a1241a1" target="blank"><img align="center" src="https://img.icons8.com/office/40/000000/spotify.png" alt="https://open.spotify.com/user/lvvkfwukd2hb0wyxhor7xiatk?si=e6fb8c4a9a1241a1" height="50" width="50"/></a>
 </p>
 
 
